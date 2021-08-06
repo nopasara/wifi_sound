@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name esp-wroom-32)(type KiCad)(uri ${KIPRJMOD}/esp-wroom-32.pretty)(options "")(descr ""))
+  (lib (name wifi)(type KiCad)(uri ${KIPRJMOD}/wifi.pretty)(options "")(descr ""))
+)
